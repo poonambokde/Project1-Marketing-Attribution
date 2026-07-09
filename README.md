@@ -154,3 +154,5 @@ Data Analytics Intern — Infotact Solutions, Bengaluru 2026
 B.Tech Computer Engineering | MPIT Maharashtra
 
 GitHub Repository: Project1-Marketing-Attribution
+
+Final Project Submitted
